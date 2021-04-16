@@ -574,7 +574,7 @@ a[data-lightbox]:hover img {
 }
 
 #lightbox-modal .modal-dialog img {
-	max-height: 90vh;
+	max-height: 100%;
 	margin: 0 auto;
 }
 
@@ -821,6 +821,7 @@ h4 {
 
 .bg-banniere {
 	background-image: url("img/la-chouette-agence-banniere.jpg");
+	
 }
 
 .bg-presentation {
