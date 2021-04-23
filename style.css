@@ -768,9 +768,9 @@ h4 {
 	background-color: #ffffff;
 }
 
-.bgc-dark-slate-blue {
+/*.bgc-dark-slate-blue {
 	background-color: #364577;
-}
+}*/
 
 .bgc-atomic-tangerine {
 	background-color: #f3976c;
@@ -817,6 +817,7 @@ h4 {
 
 .bg-lines-h2-bg {
 	background-image: url("img/lines-h2-bg.png");
+	background-size: cover;
 }
 
 .bg-banniere {
